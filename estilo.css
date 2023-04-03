@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(17, 17, 143);
+    font: normal 15pt Arial;
+}
+header{
+    color:antiquewhite;
+    text-align: center;
+
+}
+section{
+background-color: white;
+border-radius: 10px;
+padding: 15px;
+width: 300px;
+margin: auto;
+color: black;
+box-shadow: 5px 5px 10px rgb(73, 44, 112) ;
+text-align: center;
+}
+footer{
+    color:antiquewhite;
+    text-align: center;
+    font-style: italic;
+
+}
+#imagem{
+    text-align: center;
+}
